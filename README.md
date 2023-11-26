@@ -20,3 +20,6 @@ The Pong Game is a minimalistic application developed in Pygame, providing funda
 ### Screenshots
 
 https://github.com/nikmasi/pongGame/assets/138830925/c957fe19-f334-41ea-a8d2-7643ea6151da
+
+### Acknowledgements
+This implementation of the Pong game was created as a learning project.
