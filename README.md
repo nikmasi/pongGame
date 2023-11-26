@@ -16,3 +16,7 @@ The Pong Game is a minimalistic application developed in Pygame, providing funda
   - The objective is to score points by hitting the ball past your opponent's paddle.
   - Missing the ball will give your opponent a point.
   - The game ends when one player reaches the score limit.
+
+### Screenshots
+
+https://github.com/nikmasi/pongGame/assets/138830925/c957fe19-f334-41ea-a8d2-7643ea6151da
